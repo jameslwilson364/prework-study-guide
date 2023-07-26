@@ -1,9 +1,11 @@
+/* define margins and padding */
 * {
     margin: 0;
     padding: 0;
 
 }
 
+/* define header/footer size */
 header,
 footer {
     width: 100%;
@@ -12,6 +14,8 @@ footer {
     color: white;
 }
 
+/* define attributes for headers 1 & 2, image size, unumbered lists, paragraphs and 
+wrap into boxes */
 h1,
 h2 {
     text-align: center;
